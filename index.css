@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+    
+}
+.buton { 
+    font-size:200%;
+    border-radius: 9%;
+    background-color: rgb(6, 246, 6);
+    color: whitesmoke; 
+    margin: 20px 16px;
+    font-size: 100px ;  
+    
+}
+.hatz {
+    position: relative;
+    text-align: center;
+    top: 350px;
+    border-radius: 50%; 
+}
